@@ -1,16 +1,17 @@
-# ⌚ Turn-Off Timer  
+# Turn-Off Timer
 
-**Turn-Off Timer** is a simple countdown tool for Windows 10 that shuts down your system automatically.  
+Temporizador para apagar tu PC automáticamente :)
 
-## 🚀 Features  
-- Two shutdown options:  
-  1️⃣ **1 hour**  
-  2️⃣ **2 hours**  
-- Includes a ready-to-use **.exe** file (built with PyInstaller).  
+```bash
+1. Ejecuta el archivo .exe
+2. Elige horas/minutos y pulsa 'Iniciar Apagado'
+3. Cancela si es necesario 
+```
+## Preview
+<div align="center">
+  <img src="images/preview.png" alt="Preview de la app" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 16px #0003;">
+</div>
 
-## 📦 How to Use  
-1. Download the `.exe` file.  
-2. Run it. Done!  
-
-## 👤 Created by  
-**David Null** 💻  
+Autor: David Null 🐰
+<br><br><br>
+![tepig](https://c.tenor.com/tCEJa6Is43YAAAAC/tenor.gif)
